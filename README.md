@@ -39,7 +39,7 @@ This project aims to predict real estate prices using the Random Forest Algorith
 
 ### Getting Started
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```sh
    git clone https://github.com/your-repository/Predict-Real-Estate-with-Random-Forest-Algorithm.git
